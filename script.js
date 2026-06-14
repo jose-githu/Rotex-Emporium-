@@ -8,7 +8,7 @@
 'use strict';
 
 /* ── CONFIG ──────────────────────────────────────────────── */
-const WA_NUMBER     = '254700000000'; // Replace with live number
+const WA_NUMBER     = '254721696486'; // Replace with live number
 const CART_KEY      = 'rotex_cart';
 const IS_CATALOGUE  = document.body.classList.contains('page--catalogue');
 
@@ -36,7 +36,7 @@ const KB = [
   [['return','refund','exchange','damaged','faulty'], 'Returns accepted within 7 days of delivery, original condition with tags. Exchanges are free. WhatsApp us to initiate. 🔄'],
   [['price','cost','discount','promo','sale'],        'Prices are fully inclusive. Follow @rotexemporium on Instagram for exclusive promotions. 🏷️'],
   [['authentic','genuine','quality','real'],          'Every piece is 100% authentic. No imitations, ever. ✅'],
-  [['location','store','pickup','address'],           'We operate online with Kenya-wide delivery. Nairobi CBD pickup can be arranged — just mention it at checkout. 📍'],
+  [['location','store','pickup','address'],           'We operate online with Kenya-wide delivery. Oloitokitok Kimana pickup can be arranged — just mention it at checkout. 📍'],
   [['hello','hi','hey','good morning','good evening'],'Welcome to Rotex Emporium. 👋 Ask me about sizing, delivery, payments, or our collections.'],
   [['thank','thanks','perfect','great','awesome'],    'Always a pleasure. 🤝 Tap "Hand off to Human" if you need more help.'],
 ];
